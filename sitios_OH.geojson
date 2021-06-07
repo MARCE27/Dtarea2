@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "sitios_OH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5367" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "Clave": "L-72 NC", "Nombre": "Nuevo Corinto", "CRTM05 N": 1129345.5989959999, "CRTM05 E": 512240.190276457 }, "geometry": { "type": "Point", "coordinates": [ 512240.190276456996799, 1129345.598995999898762 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "Clave": "L-279 LM", "Nombre": "Las Mercedes", "CRTM05 N": 1125412.6446890801, "CRTM05 E": 543283.76899809903 }, "geometry": { "type": "Point", "coordinates": [ 543283.768998099025339, 1125412.644689080072567 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "Clave": "C-362 MNG", "Nombre": "Guayabo", "CRTM05 N": 1102674.0, "CRTM05 E": 533959.0 }, "geometry": { "type": "Point", "coordinates": [ 533959.0, 1102674.0 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "Clave": "L-53 AG", "Nombre": "Anita Grande", "CRTM05 N": 1133026.0, "CRTM05 E": 530392.0 }, "geometry": { "type": "Point", "coordinates": [ 530392.0, 1133026.0 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "Clave": "L-29 RM\/L- 146 RM", "Nombre": "Rosa Mar�a", "CRTM05 N": 1092662.7184333899, "CRTM05 E": 545497.45350911596 }, "geometry": { "type": "Point", "coordinates": [ 545497.453509115963243, 1092662.71843338990584 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "Clave": "C- 35 AC", "Nombre": "Agua Caliente", "CRTM05 N": 1087903.0, "CRTM05 E": 508846.0 }, "geometry": { "type": "Point", "coordinates": [ 508846.0, 1087903.0 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "Clave": null, "Nombre": "El Abuelo", "CRTM05 N": 1128820.59, "CRTM05 E": 517203.06 }, "geometry": { "type": "Point", "coordinates": [ 517187.566849356924649, 1128817.526535799028352 ] } }
+]
+}
