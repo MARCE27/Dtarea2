@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "OH2_WGS84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "1", "Clave": "L-72 NC", "Nombre": "Nuevo Corinto", "CRTM05 N": 1129345.5989959999, "CRTM05 E": 512240.190276457, "xcoord": -83.888274769743703, "ycoord": 10.21337962401793 }, "geometry": { "type": "Point", "coordinates": [ -83.888274769743703, 10.21337962401793 ] } },
+{ "type": "Feature", "properties": { "ID": "2", "Clave": "L-279 LM", "Nombre": "Las Mercedes", "CRTM05 N": 1125412.6446890801, "CRTM05 E": 543283.76899809903, "xcoord": -83.604963966289972, "ycoord": 10.17759955417343 }, "geometry": { "type": "Point", "coordinates": [ -83.604963966289972, 10.17759955417343 ] } },
+{ "type": "Feature", "properties": { "ID": "3", "Clave": "C-362 MNG", "Nombre": "Guayabo", "CRTM05 N": 1102674.0, "CRTM05 E": 533959.0, "xcoord": -83.690263194804544, "ycoord": 9.9720955014570869 }, "geometry": { "type": "Point", "coordinates": [ -83.690263194804544, 9.972095501457087 ] } },
+{ "type": "Feature", "properties": { "ID": "5", "Clave": "L-53 AG", "Nombre": "Anita Grande", "CRTM05 N": 1133026.0, "CRTM05 E": 530392.0, "xcoord": -83.722561888360318, "ycoord": 10.246557617431353 }, "geometry": { "type": "Point", "coordinates": [ -83.722561888360318, 10.246557617431353 ] } },
+{ "type": "Feature", "properties": { "ID": "6", "Clave": "L-29 RM\/L- 146 RM", "Nombre": "Rosa Mar�a", "CRTM05 N": 1092662.7184333899, "CRTM05 E": 545497.45350911596, "xcoord": -83.585137700867421, "ycoord": 9.8814626229567466 }, "geometry": { "type": "Point", "coordinates": [ -83.585137700867421, 9.881462622956747 ] } },
+{ "type": "Feature", "properties": { "ID": "7", "Clave": "C- 35 AC", "Nombre": "Agua Caliente", "CRTM05 N": 1087903.0, "CRTM05 E": 508846.0, "xcoord": -83.91934871978863, "ycoord": 9.8386715267883744 }, "geometry": { "type": "Point", "coordinates": [ -83.91934871978863, 9.838671526788374 ] } },
+{ "type": "Feature", "properties": { "ID": "4", "Clave": null, "Nombre": "El Abuelo", "CRTM05 N": 1128820.59, "CRTM05 E": 517203.06, "xcoord": -83.843118860438594, "ycoord": 10.208586352862476 }, "geometry": { "type": "Point", "coordinates": [ -83.843118860438594, 10.208586352862476 ] } }
+]
+}
